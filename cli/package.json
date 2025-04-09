@@ -11,7 +11,7 @@
     "lint:fix": "npx eslint ./script/**/*.ts --fix"
   },
   "bin": {
-    "code-push-standalone": "./bin/script/cli.js"
+    "revampush": "./bin/script/cli.js"
   },
   "repository": {
     "type": "git",
